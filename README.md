@@ -1,2 +1,2 @@
 **Slot Machine**
-*proyec of Nicole & Juan David*
+*proyect of Nicole & Juan David*
